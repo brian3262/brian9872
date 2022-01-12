@@ -21,13 +21,13 @@ for (i = 0; i < 4; i++){
     for (j = 0; j < 13; j++) {
         switch (String(player[j])[0]) {
             case "1":
-                A += "C";
+                A += "P";
                 break;
             case "2":
-                A += "D";
+                A += "Q";
                 break;
             case "3":
-                A += "H";
+                A += "W";
                 break;
             case "4":
                 A += "S";
